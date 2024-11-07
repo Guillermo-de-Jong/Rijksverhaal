@@ -46,7 +46,7 @@ H1{
 
 H2{
     font-size: 1.8rem;
-    line-height: 1.1rem;
+    line-height: 1.2rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -302,7 +302,7 @@ textarea{
 
 .extrasmall div p{
     color: #000;
-    margin-top: -1.3rem;
+    margin-top: -1rem;
 }
 
 .extrasmall img{
