@@ -36,7 +36,7 @@ header a {
 
 /*fonts*/
 H1{
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -46,6 +46,7 @@ H1{
 
 H2{
     font-size: 1.5rem;
+    line-height: 1.2rem
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -288,12 +289,12 @@ textarea{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    height: 375px;
+    height: 376px;
 }
 
 .extrasmall div{
     padding: 1rem;
-    padding-top: 17.5rem;
+    padding-top: 18rem;
 }
 .extrasmall div h2{
     color: #000;
@@ -301,7 +302,7 @@ textarea{
 
 .extrasmall div p{
     color: #000;
-    margin-top: -1.3rem;
+    margin-top: -1.1rem;
 }
 
 .extrasmall img{
@@ -315,12 +316,12 @@ textarea{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    height: 375px;
+    height: 376px;
 }
 
 .small div{
     padding: 1rem;
-    padding-top: 17.5rem;
+    padding-top: 18rem;
 }
 
 .small div h2{
@@ -329,7 +330,7 @@ textarea{
 
 .small div p{
     color: #000;
-    margin-top: -1.5rem;
+    margin-top: -1.1rem;
 }
 
 .small img{
@@ -343,12 +344,12 @@ textarea{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    height: 375px;
+    height: 376px;
 
 }
 .medium div{
     padding: 1rem;
-    padding-top: 17.5rem;
+    padding-top: 18rem;
 }
 
 .medium div h2{
@@ -357,7 +358,7 @@ textarea{
 
 .medium div p{
     color: #000;
-    margin-top: -1.5rem;
+    margin-top: -1.1rem;
 }
 
 .medium img{
