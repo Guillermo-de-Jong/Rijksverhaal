@@ -36,7 +36,7 @@ header a {
 
 /*fonts*/
 H1{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -46,7 +46,7 @@ H1{
 
 H2{
     font-size: 1.5rem;
-    line-height: 1.2rem
+    line-height: 1.2rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
