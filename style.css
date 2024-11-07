@@ -36,7 +36,7 @@ header a {
 
 /*fonts*/
 H1{
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -45,8 +45,7 @@ H1{
 }
 
 H2{
-    font-size: 1.7rem;
-    line-height: 1.5rem;
+    font-size: 1.6rem;
     font-family: "copperplate", serif;
     font-style: normal;
     font-weight: 800;
@@ -55,7 +54,7 @@ H2{
 
 H3{
     font-size: 1.2rem;
-    line-height: 1.2rem;
+    line-height: 0.5rem;
     color: #BC433F;    
     font-family: "copperplate", serif;
     font-style: normal;
@@ -74,7 +73,7 @@ h4{
 }
 
 p{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     font-family: 'Geneva01', sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -302,7 +301,7 @@ textarea{
 
 .extrasmall div p{
     color: #000;
-    margin-top: -1rem;
+    margin-top: -1.3rem;
 }
 
 .extrasmall img{
@@ -380,7 +379,7 @@ textarea{
     align-items: center;
     flex-wrap: wrap;
     background-color: #E9D0AB;
-    height: 2.5rem;
+    height: 2.6rem;
     width: 6rem;
     border-radius: 0.8rem;
 }
@@ -390,6 +389,7 @@ textarea{
 .specificatie p{
     color: #000;
     margin-top: -1rem;
+    padding: 0.2rem;
 }
 
 .informatie{
